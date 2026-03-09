@@ -6,7 +6,7 @@ I'm a 20-year-old **Computer Engineering student**, currently in the 3rd year of
 
 🚀 I'm also a **Magma Studio Ambassador**, a program that connects students with companies and promotes young tech talent.
 
-🌍 Currently, I’m living in **Padua, Italy**, for my **Erasmus program**, an experience that has strengthened my autonomy, adaptability, and interest in international tech environments.
+🌍 I lived in **Padua, Italy**, for my **Erasmus program**, an experience that has strengthened my autonomy, adaptability, and interest in international tech environments.
 
 💡 I’m always looking to learn new technologies, explore new challenges, and collaborate on meaningful projects.
 
